@@ -11,7 +11,7 @@ void main(){
     printLargestCommonFactor(no1,no2);
 }
 
-printLargestCommonFactor(int no1, int no2){
+void printLargestCommonFactor(int no1, int no2){
    int smaller=(no1>no2)?no1:no2;
    int i = 1;
    int max;
