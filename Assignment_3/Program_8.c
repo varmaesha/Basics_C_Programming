@@ -13,7 +13,11 @@ void evenInRange(int start, int end){
 }
 void main(){
     int start, end;
-    scanf("%d%d",&start,&end);
-    printf("The even numbers in the range %d and %d are:",start,end);
+    printf("Enter range to print even numbers in that range");
+    printf("\nStart of Range");
+    scanf("%d",&start);
+    printf("\nEnd of the range");
+    scanf("%d",&end);    \
+    printf("\nThe even numbers in the range %d and %d are:",start,end);
     evenInRange(start,end);
 }

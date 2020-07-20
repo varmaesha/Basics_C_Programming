@@ -10,7 +10,11 @@ void inrange(int start, int end){
 }
 void main(){
     int start, end;
-    scanf("%d%d",&start,&end);
-    printf("The numbers in the range %d and %d are:",start,end);
+    printf("Enter range to print numbers in");
+    printf("\nStart of Range");
+    scanf("%d",&start);
+    printf("\nEnd of the range");
+    scanf("%d",&end);
+    printf("\nThe numbers in the range %d and %d are:",start,end);
     inrange(start,end);
 }
