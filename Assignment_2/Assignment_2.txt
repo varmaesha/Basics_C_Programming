@@ -1,0 +1,19 @@
+1.Write a program which accept one number from user and print that number of even numbers on screen.
+2. Write a program which accept number from user and print even factors of that number
+3. Write a program which accept two numbers from user and display its common factors.
+4. Write a program which accept two numbers from user and display its largest common factors.
+5. Accept two characters from user and swap contents of that two characters.
+6. Accept two integers from user and swap contents of that two integers without using temporary variable.
+7. Accept one number from user and print that number of * on screen.
+
+8. Accept one character from user and convert case of that character.
+Input : A
+Output : a
+Input : D
+Output : d
+
+9. Accept one number and print that number of elements from Fibonacci series.
+Input : 9
+Output : 1 1 2 3 5 8 13 21 34
+
+10. Accept on character from user and check whether that character is vowel (a,e,i,o,u) or not.
