@@ -1,0 +1,68 @@
+1.Write a program which accept one number from user and return multiplication of its digits. (If number contains 0 then ignore that 0)
+Input : 712
+Output : 14
+Input : 7024
+Output : 56
+
+2. Write a program which accept one number from user and return addition of its even digits.
+Input : 7429
+Output : 6
+Input : 90281
+Output : 10
+
+3. Write a program which accept one number from user and return the occurrence of digit 5.
+Input : 712
+Output : 0
+Input : 7525
+Output : 2
+
+4. Accept one numbers from user and display the output as.
+Input : 543
+Output : Three Four Five
+Input : 7309
+Output : Nine Zero Three Seven
+
+5. Accept one numbers from user and return its reverse number.
+Input : 543
+Output : 345
+Input : 78
+Output : 87
+Input : 7890
+Output : 987
+
+6. Accept one numbers from user and count occurrence of 0.
+Input : 543
+Output : 0
+Input : 7309
+Output : 1
+Input : 73008
+Output : 2
+
+7. Accept one numbers from user and count digits which are greater than or equal to 5.
+Input : 5437
+Output : 2
+Input : 730951
+Output : 3
+Input : 23003
+Output : 0
+
+8. Accept three numbers from user and count occurrence of 0.
+Input : 543
+Output : 0
+Input : 7309
+Output : 1
+Input : 73008
+Output : 2
+
+9. Write a program which accept one number from user and return addition of its odd digits.
+Input : 7429
+Output : 16
+Input : 90281
+Output : 10
+
+10. Write a program which accept one number from user and return difference between addition of its even digits and addition of odd digits.
+Input : 7429
+Output : -10 (6-16)
+Input : 90281
+Output : 0 (10-10)
+
