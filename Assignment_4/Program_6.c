@@ -13,11 +13,11 @@ void main(){
 
 void countZero(int no){
     int temp,count = 0;
-    while(no > -1){
+    while(no > 0){
         temp = no % 10;
         no = no / 10;
         if(temp == 0)
             count++;
     }
-    printf("The number of 0 in the above number is %d",count);
+    printf("The number of trailing 0's in the above number is %d",count);
 }
