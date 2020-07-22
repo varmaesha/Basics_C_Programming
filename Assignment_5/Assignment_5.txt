@@ -1,0 +1,44 @@
+1.Write a program which accept one number from user and return smallest digit.
+Input : 712
+Output : 1
+Input : 7520
+Output : 0
+
+2. Accept number from user and print below pattern.
+Input : 4
+Output : * * * * # # # #
+
+3. Write a program which accept number from user and print below pattern as.
+Input : 6
+Output : * $ * $ * $ * $ * $ * $
+
+4. Accept length of side from user and calculate area of square.
+Input : 4.2
+Output : 17.64
+
+5. Accept radius of circle from user and calculate its area (PI*R*R).
+Input : 4.2
+Output : 17.64
+
+6. Accept distance in centimetre and convert into meter. 1 meter = 100 Centimeter
+Input : 87
+Output : 0.87
+
+7. Accept radius of circle from user and calculate its circumference (2*PI*R).
+Input : 4.2
+Output : 26.39
+
+8. Cost of land is 560 rupees per square feet. Accept number of square feet from user and calculate total cost.
+Input : 87
+Output : 48720
+
+9. Accept length and wide of rectangle and calculate its area (Length * Width).
+Input : 4.2  8.9
+Output : 37.38
+
+10. Write a program which accept length of three sides of triangle and check whether it is Pythagorean triple or not.
+Input : 3 4 5
+Output : TRUE 
+Input : 9 2 8
+Output : FALSE
+
