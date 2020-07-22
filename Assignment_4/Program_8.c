@@ -17,22 +17,21 @@ int main(){
     printf("Input:");
     scanf("%d",&no1);
     res = countZero(no1);
-    /*printf("Output : %d",res);
-    printf("Input:");
+    printf("Output : %d",res);
+    printf("\nInput:");
     scanf("%d",&no2);
     res = countZero(no2);
     printf("Output : %d",countZero(no2));
-    printf("Input:");
+    printf("\nInput:");
     scanf("%d",&no3);
     res = countZero(no3);
     printf("Output : %d",countZero(no3));
-    */return 0;
+    return 0;
 }
 
 int countZero(int no){
-    printf("here");
     int temp,count = 0;
-    while(no > -1){
+    while(no > 0){
         temp = no % 10;
         no = no / 10;
         if(temp == 0)
