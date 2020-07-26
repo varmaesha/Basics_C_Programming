@@ -1,0 +1,55 @@
+1.Rent of car is 15 rupees per kilometre for first 120 kilometres and after that it is 10 rupees per kilometre. Accept total number of kilometres and calculate rent.
+Input : 80
+Output : 1200
+Input : 145
+Output : 2050
+
+2. Parking charges for four whaler is 30 rupees for first three hours and after every hour it is 5 rupees. Accept number of hours and calculate total amount.
+Input : 2
+Output : 30
+Input : 7
+Output : 50
+
+3. Write a program which accept number of hours and calculate
+number of minutes.
+Input : 5
+Output : 300
+
+4. Write a program which accept number of minutes and calculate
+number of hours.
+Input : 320
+Output : 5 hours 20 minutes
+Input : 150
+Output : 2 hours 30 minutes
+
+5. Accept number from user and display below pattern as.
+Input : 5
+Output : A A A A A
+
+6. Accept numbered one character from user and display below
+pattern as.
+Input : 5 M
+Output : M M M M M
+
+7. Accept range from user and display below output.
+Input : 5 12
+Output : 5 6 7 8 9 10 11 12
+
+8. Accept three numbers from user and return difference between
+largest and smallest digit.
+Input : 543
+Output : 2 (5 - 3)
+Input : 7309
+Output : 7 (9 - 3)
+Input : 7319
+Output : 8 (9 - 1)
+
+9. Accept range from user and display below output.
+Input : 5 20
+Output : 6 8 10 12 14 16 18 20
+
+10. Write a program which accept one number from user addition of factorial of each digit of that number.
+Input : 324
+Output : 32 (3! + 2! + 4!)
+Input : 524
+Output : 146 (5! + 2! + 4!)
