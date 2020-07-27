@@ -13,13 +13,6 @@ Output : 50
 
 void totalRent(int);
 
-void main(){
-    int hrs;
-    printf("Input:");
-    scanf("%d",&hrs);
-    totalRent(hrs);
-}
-
 void totalRent(int hrs){
     int icost = 0,tcost = 0;
     if(hrs < 4){
@@ -33,3 +26,11 @@ void totalRent(int hrs){
     }
     printf("Output: %d",tcost);
 }
+
+void main(){
+    int hrs;
+    printf("Input:");
+    scanf("%d",&hrs);
+    totalRent(hrs);
+}
+
