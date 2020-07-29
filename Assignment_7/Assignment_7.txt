@@ -1,0 +1,50 @@
+1.Write a program which accept two numbers from user and calculate its power.
+Input : 3 4
+Output : 81
+Input : 7 3
+Output : 343
+
+2. Write a program which accept number from user and check whether that number is strong number or not. When the sum of the factorial of a number's individual digits are equal to the number itself, then that number is called a strong number.
+Input : 145 since 1! + 4! + 5! = 1 + 24 + 120 = 145
+Output : TRUE
+
+3. Write a program which accept principle amount, time and create of interest from user and calculate simple interest.
+
+4. Accept number from user and check whether it is Armstrong number or not. Armstrong number is a number that is the sum of its own digits each raised to the power of the number of digits is same as the given number.
+Input : 153
+Output : TRUE
+
+5. Accept one numbers from user and display frequency of each digit.
+Input : 543457
+Output : 
+3 -> 1
+4 -> 2
+5 -> 2
+7 -> 1
+
+6. Accept range from user and perform addition of all elements form that range.
+Input : 10 15
+Output : 75
+
+7. Accept one numbers from user and display below pattern as.
+Input : 3
+Output :  3###2##1#
+
+8. Accept one character from user and depends on that character display its type.
+Input : A
+Output : It is Capital
+Input : d
+Output : It is Small
+Input : 5
+Output : It is Digit
+
+9. Write a program which accept range from user and display all prime numbers between that range.
+Input : 5 20
+Output : 5 7 11 13 17 19
+
+10. Accept number from user and return its generic root.
+Input : 7429
+Output : 4 (7+4+2+9 -> 22 -> 2+2 -> 4 )
+Input : 90281
+Output : 2 (9+0+2+8+1 -> 20 -> 2+0 -> 2)
+
