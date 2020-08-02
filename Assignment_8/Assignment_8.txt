@@ -1,0 +1,40 @@
+1.Write a program which accept 10 numbers from user and display only even numbers from them.
+Input : 21 78 32 12 89 67 62 55 33 10
+Output : 78 32 12 62 10
+
+2. Write a program which accept 10 numbers from user and display in reverse order.
+Input : 78 23 29 99 34 89 76 90 11 20
+Output : 20 11 90 76 89 34 99 29 23 78
+
+3. Write a program which accept 10 numbers from user and return addition of even numbers from them.
+Input : 12 23 43 99 67 102 45 34 54 10
+Output : 489
+
+4. Write a program which accept 5 floats from user and display all such numbers which are greater than 8
+Input : 9.3 4.7 7.9 10.8 4.5
+Output : 9.3 10.8
+
+5. Write a program which accept 8 numbers from user and print prime numbers from them.
+Input : 7 45 29 31 71 91 11 28
+Output : 7 29 31 71 11
+
+6. Write a program which accept 8 numbers from user and print number of digits of each number.
+Input : 7 45 2991 31 91 23467 324 7
+Output : 1 2 4 2 2 5 3 1
+
+7. Write a program which accept 5 numbers from user and print addition of digits of each number.
+Input : 124 6789 453 102 45
+Output : 7 30 12 3 9
+
+8. Write a program which accept 5 numbers from user and return largest number from them.
+Input : 9 -33 27 -103 23
+Output : 27
+
+9. Write a program which accept 5 numbers from user and return smallest number from them.
+Input : 11 -103 67 76 -1
+Output : -103
+
+10. Write a program which accept 7 number from user and return number which is nearest to 90 .
+Input : 45 67 99 88 91 102 93
+Output : 91
+
