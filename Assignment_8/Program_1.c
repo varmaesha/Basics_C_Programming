@@ -28,7 +28,7 @@ void main(){
 
     arr = (int *)malloc(sizeof(int)*size);
 
-    for (int comp = 0; comp < size; comp++)
+    for(comp = 0; comp < size; comp++)
     {
         scanf("%d",&arr[comp]);
     }
