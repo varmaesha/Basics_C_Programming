@@ -7,6 +7,16 @@ Output : 9.3 10.8
 #include"stdio.h"
 #include"stdlib.h"
 
+void getNumbers(float[],int);
+
+void getNumbers(float arr[],int size){
+    printf("\nNumber grater than 8 are :\n");
+    for(int i = 0; i < size; i++){
+        if(arr[i] > 8.0){
+            printf("%.2f\n",arr[i]);
+        }
+    }
+}
 void main(){
     float *arr;
     int size, range;
@@ -17,7 +27,8 @@ void main(){
     arr =(float *)malloc(sizeof(float) * size);
 
     for(range = 0; range < size; range++){
-        scanf(%]"%d",&arr[range]);
+        scanf("%f",&arr[range]);
     }
-    
+
+    getNumbers(arr,size);   
 }
