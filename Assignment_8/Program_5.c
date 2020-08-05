@@ -9,10 +9,20 @@ Output : 7 29 31 71 11
 void getPrime(int[],int);
 
 void getPrime(int arr[],int size){
+    printf("Prime numbers are:\n");
     for(int i = 0; i < size; i++){
-	if(count == 2){
-		printf("%d",arr[i]);
-	}
+	int j = 1;
+    int c = 0;
+    while (j <= arr[i])
+    {
+        if(arr[i] % j == 0){
+            c++;
+        }
+        j++;
+    }
+    if(c == 2){
+        printf("%d\n",arr[i]);
+    }
     }
 }
 
