@@ -7,7 +7,7 @@ Output : -103
 #include"stdio.h"
 #include"stdlib.h"
 
-void getaLargest(int arr[], int size){
+void getaSmallest(int arr[], int size){
     printf("Smallest element is :");
     for(int i = 1; i < size; i++){
             if (arr[i] < arr[0])
@@ -26,5 +26,5 @@ void main(){
         scanf("%d",&arr[i]);
     }
     
-    getaLargest(arr,size);
+    getaSmallest(arr,size);
 }
