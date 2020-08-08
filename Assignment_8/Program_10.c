@@ -13,7 +13,7 @@ void getClosestTo90(int arr[],int size){
     printf("The number closest to 90 is :");
     for(int i = 0; i < size; i++){
         diff = abs(arr[i] - 90);
-        
+         
         if(diff < cdiff)
         {
             cdiff = diff;
