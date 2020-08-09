@@ -19,7 +19,7 @@ void getDiff(int arr[], int size){
             oSum = oSum + arr[i];
         }
     }
-    Diff = eSum -oSum;
+    Diff = eSum - oSum;
     printf("%d",Diff);
 }
 void main(){
