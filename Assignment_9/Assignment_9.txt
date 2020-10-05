@@ -46,3 +46,9 @@ Output : 54 (97 - 43)
 Input : 10 21 39 399 777
 Output : TRUE
 
+11. Write a C program to input elements in array from user and count duplicate elements in array. 
+Input
+1 10 20 1 25 1 10 30 25 1
+Output
+5
+

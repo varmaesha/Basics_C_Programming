@@ -1,2 +1,3 @@
-# Basics_C_Programming
-Logic Building Using C Programs
+# C Programming Basics :-
+C programs for beginners.
+Logic Building Using C Programs.
